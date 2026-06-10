@@ -32317,5 +32317,12 @@
     "author": "msjang",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Open, create, and edit HWP/HWPX files directly in Obsidian using rhwp.",
     "repo": "msjang/obsidian-rhwp-editor"
+  },
+  {
+    "id": "obsidian-candlestick-chart",
+    "name": "Candlestick Chart",
+    "author": "xiaoyanone",
+    "description": "Display TradingView candlestick charts from .candlestick.json files in your vault.",
+    "repo": "xiaoyanone/obsidian-candlestick-chart"
   }
 ]
